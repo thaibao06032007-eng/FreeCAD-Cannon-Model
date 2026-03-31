@@ -1,6 +1,6 @@
 # 3D Printed Mini Cannon 💣
 
-![Cannon Image](<img width="1309" height="990" alt="Screenshot 2026-03-30 231820" src="https://github.com/user-attachments/assets/140731cc-ea89-4277-99dd-5d03a0630006" />)
+![Cannon Image](https://github.com/user-attachments/assets/140731cc-ea89-4277-99dd-5d03a0630006)
 
 A modular desktop mini-cannon model designed from scratch using **FreeCAD 1.1**. This project was created to practice 3D modeling skills, explore the features of the new FreeCAD update, and learn about tolerances in 3D printing.
 
